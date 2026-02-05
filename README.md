@@ -119,6 +119,14 @@ while (true) {
 }
 ```
 
+## Star History
+
+<p align="center">
+  <a href="https://www.star-history.com/#tinyfish-io/tinyfish-cookbook&type=date">
+    <img src="https://api.star-history.com/svg?repos=tinyfish-io/tinyfish-cookbook&type=date&legend=top-left" alt="Star History Chart">
+  </a>
+</p>
+
 ## Contributors
 
 <a href="https://github.com/tinyfish-io/TinyFish-cookbook/graphs/contributors">
@@ -126,6 +134,7 @@ while (true) {
 </a>
 
 Got something cool you built with TinyFish? We want it in here! Check out our [Contributing Guide](CONTRIBUTING.md) for the full rundown on how to submit your project.
+
 
 ## Community & Support
 
